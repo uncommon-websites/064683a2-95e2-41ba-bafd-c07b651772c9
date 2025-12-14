@@ -20,41 +20,41 @@
         <!-- Stat 1 -->
         <div class="p-8 border-r border-b border-white/10 h-80 flex flex-col justify-between group hover:bg-white/5 transition-colors">
             <div>
-                <h3 class="text-lg font-medium mb-4">Third-party content is responsible for</h3>
-                <div class="text-6xl font-serif-display text-brand-green mb-2">85%<span class="text-3xl align-top">↑</span></div>
-                <p class="text-xs text-gray-400">of brand awareness in commercial search.</p>
+                <h3 class="text-lg font-medium mb-4">Retail traders lose money due to</h3>
+                <div class="text-6xl font-serif-display text-amber-500 mb-2">82%<span class="text-3xl align-top">↑</span></div>
+                <p class="text-xs text-gray-400">lack of proper education and risk management.</p>
             </div>
-            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Report <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Analysis <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
         </div>
 
         <!-- Stat 2 -->
         <div class="p-8 border-r border-b border-white/10 h-80 flex flex-col justify-between group hover:bg-white/5 transition-colors">
             <div>
-                <h3 class="text-lg font-medium mb-4">Fresh content earns</h3>
-                <div class="text-6xl font-serif-display text-brand-green mb-2">70%<span class="text-3xl align-top">↑</span></div>
-                <p class="text-xs text-gray-400">more citations in AI search.</p>
+                <h3 class="text-lg font-medium mb-4">Traders with a system achieve</h3>
+                <div class="text-6xl font-serif-display text-amber-500 mb-2">3.5x<span class="text-3xl align-top">↑</span></div>
+                <p class="text-xs text-gray-400">better returns than those trading on emotion.</p>
             </div>
-            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Report <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Analysis <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
         </div>
 
         <!-- Stat 3 -->
         <div class="p-8 border-r border-b border-white/10 h-80 flex flex-col justify-between group hover:bg-white/5 transition-colors">
             <div>
-                <h3 class="text-lg font-medium mb-4">Visibility decreases</h3>
-                <div class="text-6xl font-serif-display text-brand-green mb-2">50%<span class="text-3xl align-top">↓</span></div>
-                <p class="text-xs text-gray-400">without refreshing content every 12 months or less.</p>
+                <h3 class="text-lg font-medium mb-4">Win rate improves by</h3>
+                <div class="text-6xl font-serif-display text-amber-500 mb-2">45%<span class="text-3xl align-top">↑</span></div>
+                <p class="text-xs text-gray-400">when following proven setups vs. random entries.</p>
             </div>
-            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Report <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Analysis <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
         </div>
 
         <!-- Stat 4 -->
         <div class="p-8 border-r border-b border-white/10 h-80 flex flex-col justify-between group hover:bg-white/5 transition-colors">
             <div>
-                <h3 class="text-lg font-medium mb-4">Structured data were seen in</h3>
-                <div class="text-6xl font-serif-display text-brand-green mb-2">23%</div>
-                <p class="text-xs text-gray-400">of all AI search results related to SaaS.</p>
+                <h3 class="text-lg font-medium mb-4">Daily market analysis helps traders</h3>
+                <div class="text-6xl font-serif-display text-amber-500 mb-2">68%</div>
+                <p class="text-xs text-gray-400">identify high-probability setups faster.</p>
             </div>
-            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Report <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Analysis <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
         </div>
 
     </div>

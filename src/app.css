@@ -5,11 +5,11 @@
 	--font-sans: 'Inter', sans-serif;
 	--font-serif: 'Playfair Display', serif;
 
-	/* Custom Colors */
-	--color-brand-green: #00E560;
-	--color-brand-green-hover: #00cc55;
-	--color-brand-dark: #052e16;
-	--color-brand-darker: #021a0c;
+	/* Custom Colors - TraderLion Brand */
+	--color-brand-green: #F59E0B;
+	--color-brand-green-hover: #D97706;
+	--color-brand-dark: #1F2937;
+	--color-brand-darker: #111827;
 	--color-brand-blue: #1e1b4b;
 	--color-brand-cream: #FDFBF7;
 	--color-brand-pink: #FCE7F3;

@@ -58,29 +58,29 @@
                         <!-- Data Table -->
                         <div class="border border-gray-100 rounded-lg overflow-hidden">
                             <div class="bg-gray-50 px-4 py-2 border-b border-gray-100 flex text-[10px] font-bold text-gray-500 uppercase tracking-wider">
-                                <div class="w-1/3">Keyword</div>
-                                <div class="w-1/6 text-right">Vol</div>
-                                <div class="w-1/6 text-right">KD</div>
-                                <div class="w-1/6 text-right">CPC</div>
+                                <div class="w-1/3">Symbol</div>
+                                <div class="w-1/6 text-right">Price</div>
+                                <div class="w-1/6 text-right">Setup</div>
+                                <div class="w-1/6 text-right">R/R</div>
                                 <div class="w-1/6 text-right">Status</div>
                             </div>
                             <div class="divide-y divide-gray-50 text-xs">
                                  {#each [
-                                     {kw: 'ai content generation', vol: '12k', kd: '65', cpc: '$4.20', status: 'Rank #1'},
-                                     {kw: 'seo automation tools', vol: '8.5k', kd: '54', cpc: '$3.50', status: 'Rank #3'},
-                                     {kw: 'content strategy template', vol: '5.2k', kd: '42', cpc: '$1.80', status: 'Rank #5'},
-                                     {kw: 'best ai writers 2024', vol: '3.1k', kd: '38', cpc: '$2.10', status: 'Rising'},
-                                     {kw: 'programmatic seo guide', vol: '2.8k', kd: '45', cpc: '$5.00', status: 'New'}
+                                     {kw: 'AAPL', vol: '$178.50', kd: 'Bull Flag', cpc: '3.5', status: 'Active'},
+                                     {kw: 'TSLA', vol: '$242.80', kd: 'Breakout', cpc: '4.2', status: 'Watch'},
+                                     {kw: 'NVDA', vol: '$495.20', kd: 'Pullback', cpc: '2.8', status: 'Entry'},
+                                     {kw: 'SPY', vol: '$455.30', kd: 'Support', cpc: '3.0', status: 'Alert'},
+                                     {kw: 'QQQ', vol: '$385.90', kd: 'Trend', cpc: '3.8', status: 'New'}
                                  ] as item}
                                  <div class="px-4 py-3 flex items-center hover:bg-gray-50 transition-colors">
                                      <div class="w-1/3 font-medium text-gray-900">{item.kw}</div>
                                      <div class="w-1/6 text-right text-gray-600">{item.vol}</div>
                                      <div class="w-1/6 text-right">
-                                         <span class="px-1.5 py-0.5 rounded text-[10px] font-bold {parseInt(item.kd) > 60 ? 'bg-red-100 text-red-700' : parseInt(item.kd) > 40 ? 'bg-yellow-100 text-yellow-700' : 'bg-green-100 text-green-700'}">{item.kd}</span>
+                                         <span class="px-1.5 py-0.5 rounded text-[10px] font-bold bg-blue-100 text-blue-700">{item.kd}</span>
                                      </div>
                                      <div class="w-1/6 text-right text-gray-600">{item.cpc}</div>
                                      <div class="w-1/6 text-right">
-                                         <span class="text-[10px] font-bold text-brand-green">{item.status}</span>
+                                         <span class="text-[10px] font-bold text-amber-600">{item.status}</span>
                                      </div>
                                  </div>
                                  {/each}
@@ -95,15 +95,15 @@
         <div class="grid md:grid-cols-3 gap-0 mt-0 border-x border-b border-gray-200 divide-x divide-gray-200 bg-white">
             <div class="p-6 flex items-start gap-4 hover:bg-gray-50 transition-colors cursor-pointer">
                 <div class="w-6 h-6 rounded-full border border-gray-300 flex-shrink-0 flex items-center justify-center text-xs font-mono">1</div>
-                <p class="text-xs text-gray-600 leading-relaxed">Gain deep intel into keywords, user intent, and traffic pricing. Influence your roadmap with real-time data.</p>
+                <p class="text-xs text-gray-600 leading-relaxed">Get deep market analysis, trade setups, and risk management strategies. Make informed decisions with real-time data.</p>
             </div>
             <div class="p-6 flex items-start gap-4 hover:bg-gray-50 transition-colors cursor-pointer">
                 <div class="w-6 h-6 rounded-full border border-gray-300 flex-shrink-0 flex items-center justify-center text-xs font-mono">2</div>
-                <p class="text-xs text-gray-600 leading-relaxed">Surface opportunities on your owned content, external sites, and even Reddit threads on a regular cadence.</p>
+                <p class="text-xs text-gray-600 leading-relaxed">Identify high-probability setups across stocks, options, and futures with daily market scans and champion insights.</p>
             </div>
             <div class="p-6 flex items-start gap-4 hover:bg-gray-50 transition-colors cursor-pointer">
                 <div class="w-6 h-6 rounded-full border border-gray-300 flex-shrink-0 flex items-center justify-center text-xs font-mono">3</div>
-                <p class="text-xs text-gray-600 leading-relaxed">Prioritize action items so you can start where to grow and complete more impactful tasks—you're aligned with what improves it.</p>
+                <p class="text-xs text-gray-600 leading-relaxed">Prioritize trades based on your risk tolerance and strategy—stay aligned with what works for your trading style.</p>
             </div>
         </div>
     </div>

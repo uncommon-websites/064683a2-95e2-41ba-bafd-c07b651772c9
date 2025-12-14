@@ -25,29 +25,29 @@
                     <div class="p-4 space-y-3">
                         <div class="flex items-center justify-between border-b border-gray-50 pb-2">
                             <div class="flex items-center gap-2">
-                                <div class="w-6 h-6 rounded bg-blue-100 text-blue-600 flex items-center justify-center font-bold">A</div>
-                                <span class="font-medium text-gray-700">AI SEO Strategy</span>
+                                <div class="w-6 h-6 rounded bg-blue-100 text-blue-600 flex items-center justify-center font-bold text-[10px]">AAPL</div>
+                                <span class="font-medium text-gray-700">Bull Flag Setup</span>
                             </div>
-                            <span class="bg-green-100 text-green-700 px-1.5 py-0.5 rounded font-medium">Published</span>
+                            <span class="bg-green-100 text-green-700 px-1.5 py-0.5 rounded font-medium">Active</span>
                         </div>
                         <div class="flex items-center justify-between border-b border-gray-50 pb-2">
                             <div class="flex items-center gap-2">
-                                <div class="w-6 h-6 rounded bg-purple-100 text-purple-600 flex items-center justify-center font-bold">B</div>
-                                <span class="font-medium text-gray-700">Best CRM Tools</span>
+                                <div class="w-6 h-6 rounded bg-purple-100 text-purple-600 flex items-center justify-center font-bold text-[10px]">TSLA</div>
+                                <span class="font-medium text-gray-700">Breakout Watch</span>
                             </div>
-                            <span class="bg-yellow-100 text-yellow-700 px-1.5 py-0.5 rounded font-medium">Review</span>
+                            <span class="bg-yellow-100 text-yellow-700 px-1.5 py-0.5 rounded font-medium">Watch</span>
                         </div>
                         <div class="flex items-center justify-between border-b border-gray-50 pb-2">
                             <div class="flex items-center gap-2">
-                                <div class="w-6 h-6 rounded bg-pink-100 text-pink-600 flex items-center justify-center font-bold">C</div>
-                                <span class="font-medium text-gray-700">Content Marketing 101</span>
+                                <div class="w-6 h-6 rounded bg-pink-100 text-pink-600 flex items-center justify-center font-bold text-[10px]">SPY</div>
+                                <span class="font-medium text-gray-700">Support Level</span>
                             </div>
-                            <span class="bg-gray-100 text-gray-600 px-1.5 py-0.5 rounded font-medium">Draft</span>
+                            <span class="bg-gray-100 text-gray-600 px-1.5 py-0.5 rounded font-medium">Alert</span>
                         </div>
                          <div class="flex items-center justify-between">
                             <div class="flex items-center gap-2">
-                                <div class="w-6 h-6 rounded bg-indigo-100 text-indigo-600 flex items-center justify-center font-bold">D</div>
-                                <span class="font-medium text-gray-700">Digital Trends 2024</span>
+                                <div class="w-6 h-6 rounded bg-indigo-100 text-indigo-600 flex items-center justify-center font-bold text-[10px]">QQQ</div>
+                                <span class="font-medium text-gray-700">Trend Following</span>
                             </div>
                             <div class="flex -space-x-1">
                                 <div class="w-4 h-4 rounded-full bg-gray-300 border border-white"></div>
@@ -109,9 +109,9 @@
         <!-- Row 3 -->
         <div class="grid md:grid-cols-2">
             <div class="p-12 border-b border-r border-gray-200 bg-[#E6FFFA]">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Free Assets</span>
-                <h3 class="text-3xl font-serif-display mb-4">Magic building blocks built by our team</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Get started right away with pre-built blocks that handle common tasks like SERP analysis, outline generation, and fact-checking. Turn your best methods into reusable assets.</p>
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">COURSES</span>
+                <h3 class="text-3xl font-serif-display mb-4">Championship strategies taught by champions</h3>
+                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Get started right away with proven courses that teach essential skills like technical analysis, risk management, and pattern recognition. Learn from traders with real track records.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
             <div class="p-12 border-b border-gray-200 bg-white flex items-center justify-center overflow-hidden">
@@ -126,24 +126,24 @@
                      </div>
                      <div class="bg-white border border-gray-200 rounded p-3 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
                          <div class="w-8 h-8 rounded bg-blue-100 mb-2 flex items-center justify-center text-blue-600">
-                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path></svg>
+                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                          </div>
-                         <div class="text-[10px] font-bold text-gray-900">Outline Gen</div>
-                         <div class="text-[8px] text-gray-500 mt-1">Create detailed outlines</div>
+                         <div class="text-[10px] font-bold text-gray-900">Risk Management</div>
+                         <div class="text-[8px] text-gray-500 mt-1">Protect your capital</div>
                      </div>
                      <div class="bg-white border border-gray-200 rounded p-3 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
                          <div class="w-8 h-8 rounded bg-green-100 mb-2 flex items-center justify-center text-green-600">
-                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
                          </div>
-                         <div class="text-[10px] font-bold text-gray-900">Fact Checker</div>
-                         <div class="text-[8px] text-gray-500 mt-1">Verify claims against sources</div>
+                         <div class="text-[10px] font-bold text-gray-900">Pattern Trading</div>
+                         <div class="text-[8px] text-gray-500 mt-1">Identify winning setups</div>
                      </div>
                      <div class="bg-white border border-gray-200 rounded p-3 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
                          <div class="w-8 h-8 rounded bg-yellow-100 mb-2 flex items-center justify-center text-yellow-600">
-                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
+                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                          </div>
-                         <div class="text-[10px] font-bold text-gray-900">Tone Adjust</div>
-                         <div class="text-[8px] text-gray-500 mt-1">Match your brand voice</div>
+                         <div class="text-[10px] font-bold text-gray-900">Day Trading</div>
+                         <div class="text-[8px] text-gray-500 mt-1">Intraday strategies</div>
                      </div>
                  </div>
             </div>
@@ -195,9 +195,9 @@
         <!-- Row 5 -->
         <div class="grid md:grid-cols-2">
             <div class="p-12 border-r border-gray-200 bg-[#E9D8FD]/30">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Integrations</span>
-                <h3 class="text-3xl font-serif-display mb-4">Connect your stack for richer context (and less friction)</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Plug AirOps into your stack. Connect data sources, destinations, and tools seamlessly into your CMS. No more handoffs required.</p>
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">INTEGRATIONS</span>
+                <h3 class="text-3xl font-serif-display mb-4">Connect your broker for seamless execution</h3>
+                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Plug TraderLion into your trading platform. Connect to all major brokers and trading tools seamlessly. No more switching between platforms.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
             <div class="p-12 bg-white flex items-center justify-center">

@@ -20,8 +20,8 @@
 
 <section class="py-12 bg-white border-b border-gray-200 font-sans">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <p class="text-center text-[10px] uppercase tracking-widest text-brand-green font-bold mb-8">
-            JOIN THE BEST BRANDS IN THE WORLD WINNING ON AIROPS
+        <p class="text-center text-[10px] uppercase tracking-widest text-amber-600 font-bold mb-8">
+            COMPATIBLE WITH ALL MAJOR TRADING PLATFORMS
         </p>
 
         <div class="grid grid-cols-2 md:grid-cols-5 gap-0 border-t border-l border-gray-200">
